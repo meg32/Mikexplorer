@@ -1,2 +1,30 @@
 May 21, 2011 Setup new github.com account.  This is my first project.
 
+May 22, 2011 History of this github project:
+
+  545  cd ..
+  546  ls -ltra
+  547  git config
+  548  git --global --list
+  549  git config -l
+  550  pwd
+  551  cd
+  552  cd Apps
+  553  ls
+  554  mkdir Mikexplorer
+  555  cd Mikexplorer/
+  556  git init
+  557  touch README
+  558  git add README 
+  559  git commit -m 'first commit'
+  560  git remote add origin git@github.com:meg32/Mikexplorer.git
+  561  git push -u origin master
+  562  pwd
+  563  git push -u origin master
+  564  vi README 
+  565  git commit
+  566  git status
+  567  git commit -a
+  568  history
+  569  git push -u origin master
+
